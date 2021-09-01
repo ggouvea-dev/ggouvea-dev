@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://ideatip.com.br](https://ideatip.com.br)
 
-- 💬 Ask me about **Java, Flutter, Dart, Java, Spring Boot, SQL, NoSQL, AWS, Linux**
+- 💬 Ask me about **Java, Flutter, Dart, Spring Boot, SQL, NoSQL, AWS, Linux**
 
 - 📫 How to reach me **gabriel@ideatip.com.br**
 
